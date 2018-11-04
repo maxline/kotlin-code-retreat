@@ -1,4 +1,4 @@
-package com.maxline
+package com.maxline.step01
 
 class Board {
 

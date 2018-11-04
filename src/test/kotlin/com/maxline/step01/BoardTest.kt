@@ -1,4 +1,4 @@
-package com.maxline
+package com.maxline.step01
 
 import org.junit.Assert.assertEquals
 import org.junit.Test as test
